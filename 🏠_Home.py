@@ -1,3 +1,8 @@
+# Start app with
+"""
+st run 🏠_Home.py
+"""
+
 # Import block
 import streamlit as st
 from PIL import Image
