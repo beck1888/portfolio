@@ -2,7 +2,7 @@ import streamlit as st
 
 # Set up page appearance
 page_title = "Art"
-st.set_page_config(page_title, '💻', 'wide', 'expanded')
+st.set_page_config(page_title, '💻', 'wide', 'collapsed')
 
 # Project 0
 with st.container(border=True):

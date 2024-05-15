@@ -2,7 +2,7 @@ import streamlit as st
 
 # Set up page appearance
 page_title = "Graph"
-st.set_page_config(page_title, '💻', 'wide', 'expanded')
+st.set_page_config(page_title, '💻', 'wide', 'collapsed')
 
 # Project 4
 st.markdown("### Project 4: Make a graph")

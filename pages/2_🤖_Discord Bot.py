@@ -2,7 +2,7 @@ import streamlit as st
 
 # Set up page appearance
 page_title = "Pages"
-st.set_page_config(page_title, '💻', 'wide', 'expanded')
+st.set_page_config(page_title, '💻', 'wide', 'collapsed')
 
 # Project 2
 st.markdown("### Project 2: Make a Discord bot")
