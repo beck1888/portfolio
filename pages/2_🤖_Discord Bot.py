@@ -11,5 +11,4 @@ st.markdown("**Challenges:** Here is the description of the challenges with crea
 # st.markdown("**See the project in action**")
 st.divider()
 if st.button("▶️ Run project", key='2', use_container_width=True):
-    st.toast("Oops! There is nothing here yet!", icon='🛑')
-    pass # Perhaps a chat element to simulate it
+    st.warning("Waiting for Dr. Ebee to buy discord bot server")
