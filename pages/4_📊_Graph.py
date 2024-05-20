@@ -13,6 +13,7 @@ st.markdown("### Project 4: Make a graph")
 st.markdown("**Project description:** Here is the description of the project.")
 st.markdown("**Challenges:** Here is the description of the challenges with creating the project.")
 # st.markdown("**See the project in action**")
+st.link_button(":blue[See code]", "https://github.com/beck1888/Streamlit-Graph-Projects")
 st.divider()
 if st.button("▶️ Run project", key='4', use_container_width=True):
     with st.status("Creating graph", expanded=True):
