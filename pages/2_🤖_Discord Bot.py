@@ -10,5 +10,4 @@ st.markdown("**Project description:** Here is the description of the project.")
 st.markdown("**Challenges:** Here is the description of the challenges with creating the project.")
 # st.markdown("**See the project in action**")
 st.divider()
-if st.button("▶️ Run project", key='2', use_container_width=True):
-    st.warning("Waiting for Dr. Ebee to buy discord bot server")
+st.link_button("🤖 Run Bot", "https://discord.com/oauth2/authorize?client_id=1195290307374366810")
