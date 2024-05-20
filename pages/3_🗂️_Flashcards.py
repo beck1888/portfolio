@@ -22,7 +22,7 @@ st.link_button(":blue[See GitHub Repo]", "https://github.com/beck1888/Flashcard_
 
 st.divider()
 st.title("Main flashcard feature")
-st.video("src/flashcards_1.mov")
+st.video("src/flashcards_1a.mp4")
 
 st.title("User stats feature")
 st.video("src/flashcards_2.mov")
